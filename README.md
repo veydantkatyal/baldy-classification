@@ -1,4 +1,4 @@
-# Man Baldness Classification 
+# Male Baldness Classification 
 
 This project aims to classify different stages of baldness using deep learning techniques implemented with PyTorch, OpenCV, and Scikit-learn. The dataset used for this project consists of approximately 2100 images obtained from Roboflow Universe. These images are annotated with five possible classes of baldness: bald, normal, stage1, stage2, and stage3.
 
